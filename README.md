@@ -2,5 +2,5 @@
 
 - Solve problem with pratice python at Software Expert Academy
 
-- [min_max_16068](swea_pr/swea_min_max.md)
-- [rangesum_16071](swea_pr/swea_range_sum.md)
+- [min_max_16068](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_min_max.md)
+- [rangesum_16071](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_range_sum.md)

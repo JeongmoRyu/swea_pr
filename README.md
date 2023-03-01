@@ -8,3 +8,5 @@
 - [view_1206](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_view.md)
 - [babygin_16181](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_babygin.md)
 - [multiple_card_16126](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_multiple_card.md)
+- [flatten_1208](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_flatten.md)
+- [electric_bus_4831](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_bus.md)

@@ -1,5 +1,8 @@
 # swea_electric_bus  4831, 16127
 
+
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0bfbb52d-b6aa-424d-b890-88adc42549b6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230302%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230302T000135Z&X-Amz-Expires=86400&X-Amz-Signature=635f8d1f4a968ac9107d85bf80cb0293e56c89d8d8ec7de28659473d9991b749&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+
 input 
 
 ```

@@ -10,3 +10,5 @@
 - [multiple_card_16126](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_multiple_card.md)
 - [flatten_1208](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_flatten.md)
 - [electric_bus_4831](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_bus.md)
+- [con_one_9386](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_con_one.md)
+- [ss_buslane_6485](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ss_buslane.md)

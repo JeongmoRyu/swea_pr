@@ -14,3 +14,5 @@
 - [ss_buslane_6485](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ss_buslane.md)
 - [new_buslane_13994](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_new_buslane.md)
 - [new_fly_in_train_6019](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_fly_in_train.md)
+- [primefactorization_1945](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_primefactorization.md)
+- [growing_carrot_9367](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_growing_carrot.md)

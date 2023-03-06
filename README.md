@@ -12,3 +12,5 @@
 - [electric_bus_4831](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_bus.md)
 - [con_one_9386](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_con_one.md)
 - [ss_buslane_6485](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ss_buslane.md)
+- [new_buslane_13994](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_new_buslane.md)
+- [new_fly_in_train_6019](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_fly_in_train.md)

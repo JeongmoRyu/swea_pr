@@ -16,3 +16,5 @@
 - [new_fly_in_train_6019](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_fly_in_train.md)
 - [primefactorization_1945](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_primefactorization.md)
 - [growing_carrot_9367](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_growing_carrot.md)
+- [changing_box_5789](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_changing_box.md)
+- [dealtasearch_16258](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_deltasearch.md)

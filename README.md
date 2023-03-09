@@ -18,3 +18,5 @@
 - [growing_carrot_9367](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_growing_carrot.md)
 - [changing_box_5789](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_changing_box.md)
 - [deltasearch_16258](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_deltaserach.md)
+- [bitwise_partialsum_16261](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bitwise_partialsum.md)
+- [put_in_color_4836](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_put_in_color.md)

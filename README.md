@@ -20,4 +20,5 @@
 - [deltasearch_16258](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_deltaserach.md)
 - [bitwise_partialsum_16261](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bitwise_partial_sum.md)
 - [put_in_color_4836](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_put_in_color.md)
-- 
+- [sum_with_diagonal_4837](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_with_diagonal.md)
+- [killing_fly_2001](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_killing_fly.md)

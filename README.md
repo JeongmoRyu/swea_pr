@@ -22,3 +22,6 @@
 - [put_in_color_4836](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_put_in_color.md)
 - [sum_with_diagonal_4837](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_with_diagonal.md)
 - [killing_fly_2001](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_killing_fly.md)
+- [partial_num_4837](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_partial_num.md)
+- [snail_numbering_16307](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_snail_numbering.md)
+- [snail_num_1954](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_snail_num.md)

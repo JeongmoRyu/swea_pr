@@ -28,3 +28,5 @@
 - [binary_search_4839](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_search.md)
 - [ladder1_1210](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ladder1.md)
 - [ladder2_1211](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ladder2.md)
+- [swea_GNS_1221](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_GNS.md)
+- [swea_newbi_palindrome_1989](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_newbi_palindrome.md)

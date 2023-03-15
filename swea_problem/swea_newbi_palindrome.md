@@ -22,6 +22,7 @@ nursesrun
 
 ```python
 import sys
+
 sys.stdin = open("../input.txt", "r")
 
 T = int(input())
@@ -33,10 +34,14 @@ for test_case in range(1, T + 1):
     result = ''
     for char in word:
         result = char + result
+
+
     def ans():
         if word == result:
             return 1
         else:
             return 0
-    print(f'#{test_case} {ans()}')
+
+
+    print(f'#{test_case} {count()}')
 ```

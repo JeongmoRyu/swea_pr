@@ -5,6 +5,7 @@
 
 ```python
 import sys
+
 sys.stdin = open("../input.txt", "r")
 
 # 여러개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
@@ -13,10 +14,10 @@ for test_case in range(1, 11):
     N = int(input())
     arr = [[0] + list(map(int, input().split())) + [0] for _ in range(100)]
 
-    mn = 100*100
+    mn = 100 * 100
     for sj in range(1, 101):
         si = 0
-        if arr[si][sj]!=1:
+        if arr[si][sj] != 1:
             continue
         # dj(-1, 1, 0)
         # 갈 수 있는 방향성으로 좌, 우, 밑
@@ -26,21 +27,21 @@ for test_case in range(1, 11):
         count, dj = 0, 0
         ci, cj = si, sj
         # 높이의 범위를 기준으로 while문으로 반복문을 생성한다.
-        while ci<99:
+        while ci < 99:
             count += 1
             if dj == 0:
-                if arr[ci][cj-1] == 1:
+                if arr[ci][cj - 1] == 1:
                     # 좌측으로 이동
                     dj = -1
                     cj -= 1
-                elif arr[ci][cj + 1] ==1:
+                elif arr[ci][cj + 1] == 1:
                     # 우측으로 이동
                     dj = 1
                     cj += 1
                 else:
                     ci += 1
             else:
-                if arr[ci][cj+dj] == 1:
+                if arr[ci][cj + dj] == 1:
                     # 진행방향에서 직진할 수 있는 경우
 
                     cj += dj
@@ -50,8 +51,8 @@ for test_case in range(1, 11):
                     ci += 1
         # 정답을 구하기 위해 끝 경계선을 생기게 하여 1의 숫자를 제거해준다.
         if mn >= count:
-            mn, ans = count, sj - 1
+            mn, count = count, sj - 1
 
-    print(f'#{N} {ans}')
+    print(f'#{N} {count}')
 
 ```

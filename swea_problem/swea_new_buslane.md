@@ -11,8 +11,10 @@
 ```
 
 - solve
+
 ```python
 import sys
+
 sys.stdin = open("sample_in.txt", "r")
 
 T = int(input())
@@ -27,7 +29,7 @@ for test_case in range(1, T + 1):
     # stop_list1 = []
     # stop_list2 = []
     # stop_list3 = []
-    ans = []
+    count = []
     # 라인의 수가 3개 밖에 없다는 것으로 해석하여 나누어서 input을 하였는데
     # runtime error와 오답이 발생하였다.
     # normal, S1, E1 = map(int, input().split())
@@ -61,11 +63,10 @@ for test_case in range(1, T + 1):
                     if c % 3 == 0 and not c % 10 == 0:
                         stop_list.append(c)
                 # 광역 버스의 경우에서는 시작점이 홀수 일경우 3의 배수이거나 10의 배수가 아닌 지점에서 멈춘다.
-    cnts = [0]*(len(stop_list)+1)
+    cnts = [0] * (len(stop_list) + 1)
 
     for y in range(0, len(stop_list)):
         cnts[stop_list[y]] = cnts[stop_list[y]] + 1
-
 
     print(f'#{test_case} {max(cnts)}')
     # 그 중 최대 값을 출력한다.

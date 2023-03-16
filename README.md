@@ -33,3 +33,6 @@
 - [palindrome_4861](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_palindrome.md)
 - [palindrome1_1215](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_palindrome1.md)
 - [palindrome2_1216](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_palindrome2.md)
+- [string_practice_1213](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_string_practice.md)
+- [comparison_string_4864](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_comparison_string.md)
+- [num_of_string_4865](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_num_of_string.md)

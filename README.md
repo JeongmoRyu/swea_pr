@@ -39,3 +39,5 @@
 - [where_put_in_word_1979](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_where_put_in_word.md)
 - [fastest_typing_3143](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_fastest_typing.md)
 - [sudoku_exam_1974](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sudoku_exam.md)
+- [turning_num-1961](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_turning_num.md)
+- [dasol's_diamond_4751](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_dasol's_diamond.md)

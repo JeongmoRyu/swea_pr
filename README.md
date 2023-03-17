@@ -36,3 +36,6 @@
 - [string_practice_1213](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_string_practice.md)
 - [comparison_string_4864](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_comparison_string.md)
 - [num_of_string_4865](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_num_of_string.md)
+- [where_put_in_word_1979](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_where_put_in_word.md)
+- [fastest_typing_3143](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_fastest_typing.md)
+- [sudoku_exam_1974](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sudoku_exam.md)

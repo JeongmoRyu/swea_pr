@@ -41,3 +41,5 @@
 - [sudoku_exam_1974](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sudoku_exam.md)
 - [turning_num-1961](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_turning_num.md)
 - [dasol's_diamond_4751](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_dasol's_diamond.md)
+- [parenthesis_analysis](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_parenthesis_analysis.md)
+- [pascal_triangle_2005](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pascal_triangle.md)

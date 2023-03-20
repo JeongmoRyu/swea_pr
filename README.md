@@ -43,3 +43,5 @@
 - [dasol's_diamond_4751](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_dasol's_diamond.md)
 - [parenthesis_analysis](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_parenthesis_analysis.md)
 - [pascal_triangle_2005](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pascal_triangle.md)
+- [erase_con_str_4873](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_erase_con_str.md)
+- [exponentiation_1217](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_exponentiation.md)

@@ -47,3 +47,7 @@
 - [exponentiation_1217](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_exponentiation.md)
 - [graph_dir_4871](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_graph_dir.md)
 - [find_dir_1219](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_find_dir.md)
+- [password_1234](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_password.md)
+- [calculator1_1222](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator1.md)
+- [calculator2_1223](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator2.md)
+- [calculator3_1224](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator3.md)

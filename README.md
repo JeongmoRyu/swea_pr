@@ -45,3 +45,5 @@
 - [pascal_triangle_2005](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pascal_triangle.md)
 - [erase_con_str_4873](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_erase_con_str.md)
 - [exponentiation_1217](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_exponentiation.md)
+- [graph_dir_4871](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_graph_dir.md)
+- [find_dir_1219](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_find_dir.md)

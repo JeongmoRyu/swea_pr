@@ -51,3 +51,6 @@
 - [calculator1_1222](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator1.md)
 - [calculator2_1223](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator2.md)
 - [calculator3_1224](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculator3.md)
+- [forth_4874](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_forth.md)
+- [maze_4875](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze.md)
+

@@ -54,3 +54,5 @@
 - [forth_4874](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_forth.md)
 - [maze_4875](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze.md)
 - [array_minmax_4881](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_array_minmax.md)
+- [tournament_cardgame_16297](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_tournament_cardgame.md)
+- [ancient_architecture_9489](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_ancient_architecture.md)

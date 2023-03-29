@@ -60,3 +60,6 @@
 - [millionaire_13686](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_millionaire.md)
 - [go_back_to_my_room_4408](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_go_back_to_my_room.md)
 - [othello_game_4615](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_othello_game.md)
+- [flying_aircraft_10760](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_flying_aircraft.md)
+- [passwordmaker_1225](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_passwordmaker.md)
+

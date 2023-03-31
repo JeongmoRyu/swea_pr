@@ -62,4 +62,7 @@
 - [othello_game_4615](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_othello_game.md)
 - [flying_aircraft_10760](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_flying_aircraft.md)
 - [passwordmaker_1225](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_passwordmaker.md)
+- [baking_pizza_16524](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_baking_pizza.md)
+- [rotation_16525](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_rotation.md)
+
 

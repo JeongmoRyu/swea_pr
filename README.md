@@ -66,6 +66,9 @@
 - [rotation_16525](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_rotation.md)
 - [cubic_root_5688](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_cubic_root.md)
 - [simple_Alzip1_1946](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_simple_Alzip1.md)
+- [contact_1238](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_contact.md)
+- [node_distace_16527](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_node_distance.md)
+
 
 
 

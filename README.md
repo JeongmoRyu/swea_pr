@@ -68,6 +68,8 @@
 - [simple_Alzip1_1946](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_simple_Alzip1.md)
 - [contact_1238](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_contact.md)
 - [node_distace_16527](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_node_distance.md)
+- [distance_maze_16526](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_distance_maze.md)
+
 
 
 

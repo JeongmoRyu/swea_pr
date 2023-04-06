@@ -69,6 +69,10 @@
 - [contact_1238](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_contact.md)
 - [node_distace_16527](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_node_distance.md)
 - [distance_maze_16526](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_distance_maze.md)
+- [maze1_1226](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze1.md)
+- [maze2_1227](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze2.md)
+
+
 
 
 

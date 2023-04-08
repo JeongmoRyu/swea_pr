@@ -71,6 +71,9 @@
 - [distance_maze_16526](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_distance_maze.md)
 - [maze1_1226](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze1.md)
 - [maze2_1227](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze2.md)
+- [binary_search_tree_16529](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_search_tree.md)
+- [subtree_16528](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_subtree.md)
+
 
 
 

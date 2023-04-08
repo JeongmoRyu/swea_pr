@@ -73,6 +73,9 @@
 - [maze2_1227](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_maze2.md)
 - [binary_search_tree_16529](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_search_tree.md)
 - [subtree_16528](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_subtree.md)
+- [inorder_traversal_1231](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_inorder_traversal.md)
+- [square_room_1861](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_square_room.md)
+
 
 
 

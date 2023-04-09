@@ -75,6 +75,9 @@
 - [subtree_16528](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_subtree.md)
 - [inorder_traversal_1231](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_inorder_traversal.md)
 - [square_room_1861](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_square_room.md)
+- [binary_heap_16531](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_heap.md)
+- [sum_node_16533](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_node.md)
+
 
 
 

@@ -77,6 +77,9 @@
 - [square_room_1861](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_square_room.md)
 - [binary_heap_16531](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_heap.md)
 - [sum_node_16533](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_node.md)
+- [tree_arithmetic_operations_1232](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_tree_arithmetic_operations.md)
+- [catch_escaper_1953](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_catch_escaper.md)
+
 
 
 

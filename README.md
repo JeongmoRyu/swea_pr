@@ -83,10 +83,11 @@
 - [arrange_num_1966](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_arrange_num.md)
 - [bubblepop2_16268](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bubblepop2.md)
 - [swea_simple_binary_password_code_1240](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swea_simple_binary_password_code.md)
+- [omok_11315](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_omok.md)
+- [jingi's_baking_fish_1860](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jingi's_baking_fish.md)
 
 
 
-swea_simple_binary_password_code
 
 
 

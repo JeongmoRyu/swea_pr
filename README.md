@@ -81,6 +81,12 @@
 - [catch_escaper_1953](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_catch_escaper.md)
 - [protecting_system_2117](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_protecting_system.md)
 - [arrange_num_1966](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_arrange_num.md)
+- [bubblepop2_16268](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bubblepop2.md)
+- [swea_simple_binary_password_code_1240](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swea_simple_binary_password_code.md)
+
+
+
+swea_simple_binary_password_code
 
 
 

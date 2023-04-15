@@ -85,6 +85,8 @@
 - [swea_simple_binary_password_code_1240](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swea_simple_binary_password_code.md)
 - [omok_11315](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_omok.md)
 - [jingi's_baking_fish_1860](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jingi's_baking_fish.md)
+- [binary_num_5185](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_num.md)
+
 
 
 

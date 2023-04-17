@@ -86,6 +86,9 @@
 - [omok_11315](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_omok.md)
 - [jingi's_baking_fish_1860](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jingi's_baking_fish.md)
 - [binary_num_5185](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_num.md)
+- [binary_num2_5186](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_num2.md)
+- [crop_2805](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_crop.md)
+
 
 
 

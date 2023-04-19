@@ -90,6 +90,8 @@
 - [crop_2805](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_crop.md)
 - [seok's_talk_downrow_5356](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_seok's_talk_downrow.md)
 - [magnetic_1220](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_magnetic.md)
+- [scan_password_code_1243](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_scan_password_code.md)
+
 
 
 

@@ -93,6 +93,9 @@
 - [scan_password_code_1243](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_scan_password_code.md)
 - [killing_fly3_12712](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_killing_fly3.md)
 - [new_insomnia_therapy_1288](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_new_insomnia_therapy.md)
+- [successful_show_4789](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_successful_show.md)
+- [russia_flag_4613](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_russia_flag.md)
+
 
 
 

@@ -95,6 +95,9 @@
 - [new_insomnia_therapy_1288](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_new_insomnia_therapy.md)
 - [successful_show_4789](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_successful_show.md)
 - [russia_flag_4613](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_russia_flag.md)
+- [find_matrix_1258](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_find_matrix.md)
+- [two_number_array_1959](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_two_number_array.md)
+
 
 
 

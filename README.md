@@ -97,6 +97,9 @@
 - [russia_flag_4613](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_russia_flag.md)
 - [find_matrix_1258](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_find_matrix.md)
 - [two_number_array_1959](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_two_number_array.md)
+- [easy_change_1970](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_easy_change.md)
+- [best_score_4466](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_best_score.md)
+
 
 
 

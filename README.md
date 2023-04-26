@@ -99,6 +99,9 @@
 - [two_number_array_1959](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_two_number_array.md)
 - [easy_change_1970](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_easy_change.md)
 - [best_score_4466](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_best_score.md)
+- [minseok's_homework_5431](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_minseok's_homework.md)
+- [pack_carrot_16811](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pack_carrot.md)
+
 
 
 

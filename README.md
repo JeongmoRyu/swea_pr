@@ -101,7 +101,8 @@
 - [best_score_4466](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_best_score.md)
 - [minseok's_homework_5431](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_minseok's_homework.md)
 - [pack_carrot_16811](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pack_carrot.md)
-
+- [bubblepop_9490](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bubblepop.md)
+- [jeonggone's_increasing_num_6190](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jeonggone's_increasing_num.md)
 
 
 

@@ -103,6 +103,9 @@
 - [pack_carrot_16811](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_pack_carrot.md)
 - [bubblepop_9490](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_bubblepop.md)
 - [jeonggone's_increasing_num_6190](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jeonggone's_increasing_num.md)
+- [swim_competition_4192](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swim_competition.md)
+- [best_prize_1244](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_best_prize.md)
+
 
 
 

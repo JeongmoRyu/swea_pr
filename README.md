@@ -107,6 +107,10 @@
 - [best_prize_1244](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_best_prize.md)
 - [min_sum_5188](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_min_sum.md)
 - [cheolsu's_mistake_13389](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_cheolsu's_mistake.md)
+- [password1_1228](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_password1.md)
+- [password2_1229](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_password2.md)
+- [password3_1230](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_password3.md)
+
 
 
 

@@ -114,6 +114,8 @@
 - [cargo_dork_5202_16751](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_cargo_dork.md)
 - [move_colntainer_5201_16750](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_move_container.md)
 - [electric_kit_5189](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_kit.md)
+- [sum_sequence_2817](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_sequence.md)
+
 
 
 

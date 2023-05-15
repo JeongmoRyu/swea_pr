@@ -116,6 +116,8 @@
 - [electric_kit_5189](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_kit.md)
 - [sum_sequence_2817](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_sequence.md)
 - [quick_sort_5205](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_quick_sort.md)
+- [n_queen_2806](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_n_queen.md)
+
 
 
 

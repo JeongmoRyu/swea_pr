@@ -123,7 +123,7 @@
 - [binary_search_new_5207](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_binary_search_new.md)
 - [swea_dongchul's_work_1865](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_dongchul's_work.md)
 - [swea_janghoon's_shelves_14034](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_janghoon's_shelves.md)
-- [swea_swimming_poo_1952](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swimming_pool.md)
+- [swea_swimming_pool_1952](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swimming_pool.md)
 
 
 

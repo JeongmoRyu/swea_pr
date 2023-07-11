@@ -126,6 +126,7 @@
 - [swea_swimming_pool_1952](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_swimming_pool.md)
 - [swea_con_grid_14035](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_con_grid.md)
 - [swea_dividing_group_5248](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_dividing_group.md)
+- [swea_calculate_5248](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculate.md)
 
 
 

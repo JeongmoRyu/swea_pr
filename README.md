@@ -113,8 +113,7 @@
 - [babygin1_5230](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_babygin.md)
 - [cargo_dork_5202_16751](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_cargo_dork.md)
 - [move_colntainer_5201_16750](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_move_container.md)
-- [electric_kit_5189](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_kit.md)
-- [sum_sequence_2817](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_sequence.md)
+- [electric_kit_5189](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_electric_kit.md) [sum_sequence_2817](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_sum_sequence.md)
 - [quick_sort_5205](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_quick_sort.md)
 - [n_queen_2806](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_n_queen.md)
 - [least_production_fee_5209](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_least_production_fee.md)
@@ -129,6 +128,7 @@
 - [swea_calculate_5248](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_calculate.md)
 - [swea_hamburger_diet_5215](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_hamburger_diet.md)
 - [swea_jeongsik's_bank_4366](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jeongsik's_bank.md)
+- [swea_climbing_route_1949](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_climbing_route.md)
 
 
 

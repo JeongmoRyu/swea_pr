@@ -129,6 +129,7 @@
 - [swea_hamburger_diet_5215](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_hamburger_diet.md)
 - [swea_jeongsik's_bank_4366](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_jeongsik's_bank.md)
 - [swea_climbing_route_1949](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_climbing_route.md)
+- [swea_desert_cafe_2105](https://github.com/JeongmoRyu/swea_pr/blob/main/swea_problem/swea_desert_cafe.md)
 
 
 

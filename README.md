@@ -146,6 +146,7 @@
 - [innerangle](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/innerangle.md)
 - [divisor](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/divisor.md)
 - [needmoney](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/needmoney.md)
+- [binary](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/binary.md)
 
 
 

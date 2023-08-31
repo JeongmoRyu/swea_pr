@@ -151,6 +151,7 @@
 - [set](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/set.md)
 - [runningrace](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/runningrace.md)
 - [undestroy](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/undestroy.md)
+- [makestar](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/makestar.md)
 
 
 

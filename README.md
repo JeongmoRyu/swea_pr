@@ -156,6 +156,7 @@
     - [missile](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/missile.md)
     - [distance_circle](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/distance_circle.md)
     - [conNumList](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/conNumList.md)
+    - [memory_point](https://github.com/JeongmoRyu/swea_pr/blob/main/programmers/memory_point.md)
     
 
 
